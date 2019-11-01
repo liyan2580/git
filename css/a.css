@@ -1,3 +1,14 @@
 body{
     background: #eee;
+    font-size: 32px;
+    color:blue;
+}
+.img{
+    width:200px;
+    height:200px;
+}
+.box{
+    width:400px;
+    height: 200px;
+    background:#ccc;
 }
